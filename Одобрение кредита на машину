@@ -1,0 +1,9 @@
+print("Одобрение кредита на машину")
+salary=int(input("Ваша зарплата:"))
+raiting=int(input("Ваш рейтинг:")) 
+if salary>50000:
+    if raiting>700:
+       elif (input("Кредит одобрен с низкой процентной ставкой:"))
+        (int)
+
+    
