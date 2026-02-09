@@ -1,0 +1,17 @@
+print("Калькулятор скидок")
+type = input("Введите тип членста клуба(Золото/Серебро/Обычный)")
+sum = float(input("Сумма покупки:"))
+if type == "Золото" and sum>100:
+    price = sum*0.8
+    elif: type == "Золото":
+    price = sum*0.9
+        
+    elif type == "Серебро" and sum>100:
+    price = sum*0.85
+    elif type == "Серебро":
+    price = sum*0.95
+        
+    elif type == "Обычный" and sum>100:
+    price = sum*0.95
+    else: price=sum
+print ("К оплате",price)
