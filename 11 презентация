@@ -1,0 +1,22 @@
+#text = "Python"
+#resultat=text [:6]
+#print (resultat)
+
+#word="Hello"
+#print (word [::-1])
+
+#phrase="abcdefghijklmnop"
+#resultat = phrase[::2]
+#print (resultat)
+
+#sentence="DataScience"
+#resultat=sentence[-4:]
+#print (resultat)
+
+#data="Machinelearning"
+#resultat=data[-8:]
+#print (resultat)
+7 слайд
+string="abcdefg"
+resultat=string[-1:1]
+print (resultat)
