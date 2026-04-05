@@ -1,0 +1,14 @@
+const cars=["Bmw,Tayota,Mersedes,Mitsubishi"]
+for (let i=0; i< cars.length; i++) {
+    console.log(cars[i])
+}
+
+
+
+
+const cars=["Bmw,Tayota,Mersedes,Mitsubishi"]
+    for (let i=0; i< cars.length; i++) {
+     console.log(cars[i]) }
+    for (let j=0; j< cars.length; j++) {
+      console.log(cars [i][j]);
+}
